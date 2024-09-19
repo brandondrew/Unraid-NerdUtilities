@@ -1,10 +1,8 @@
-# Abandoned
-**Thanks to all the users who have followed us during this time.**
+# Experimental
 
-**Once the new limetech business model was definitively presented and not agreeing with it, we have decided to abandon our collaboration in the development of this project.**
+Perhaps I will resurrect NerdTools, but with a new name, and including a different (and possibly smaller) set of utilities.
 
-**Best Regards** 
-
+<!-- 
 # unRAID-NerdTools
 [![](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/UnRAIDES)
 [![](https://badgen.net/badge/icon/docker?icon=docker&label)](https://hub.docker.com/r/unraides)
@@ -12,8 +10,11 @@
 ![Github forks](https://badgen.net/github/forks/UnRAIDES/unRAID-NerdTools?icon=github&label=forks)
 ![Github last-commit](https://img.shields.io/github/last-commit/UnRAIDES/unRAID-NerdTools)
 ![Github license](https://badgen.net/github/license/UnRAIDES/unRAID-NerdTools)
+-->
 
+<!--
 ![](images/logo.png)
+-->
 
 **Install and Uninstall extra packages easily.**
 
@@ -23,5 +24,6 @@
 
 ##
 
-NerdTools is the new plugin that allows you to install additional packages in UnRAID easily.
-This project is based on the old NerdPack plugin but has received many improvements and important changes. For example the package installation now takes advantage of the benefits of UnRAID 6.11 and install packages in the path /boot/extra and delegating part of the management to the system itself.
+NerdUtilities aims to allow you to eaisly install additional packages on your Unraid server.
+
+This project is based on the NerdTools plugin but may receive some improvements and important changes.
